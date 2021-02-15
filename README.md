@@ -1,3 +1,16 @@
+# Future challenges
+
+1. Author administration:
+2. Filter course list
+3. Hide empty course list
+4. Unsaved changes message
+5. Enhance validation
+6. Handle 404 on edit course
+7. Show # courses in Header
+8. Pagination
+9. Sort course table
+10. Revert abandoned changes
+
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
